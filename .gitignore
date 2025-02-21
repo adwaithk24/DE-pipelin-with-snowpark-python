@@ -4,6 +4,8 @@
 # Snowpark specific files
 creds.json
 
+.devcontainer/connections.toml
+.snowflake/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
